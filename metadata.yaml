@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32950
     wikipedia: http://fi.wikipedia.org/wiki/Aleksanteri_Rahkonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27841#-Kukka-kultain-kuusistossa---13-Komedia-yhdess--n-yt-ksess-
 gutenberg_issued: '2009-01-19'
 gutenberg_type: Text
 identifiers:
